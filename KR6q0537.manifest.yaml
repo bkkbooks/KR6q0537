@@ -1,0 +1,237 @@
+canonical_identifier: bkk:krp/KR6q0537/v1
+canonical_location: https://kanripo.org/bkk/KR6q0537/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 晦嶽旭禪師語錄
+  identifiers:
+    alt_id:
+    - J38nB418
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J38/J38nB418.xml
+    old_id: J38nB418
+  edition:
+    short: bkk
+editions:
+- short: 嘉興
+  label: 嘉興
+  source_xml_id: wit.orig
+- short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0537_000.yaml, hash: 'sha256:e9d1b3b857bc7222f46c50b8d8e96dc46813af0ce77bd0f5b7db42b53378eb58'}
+  - {seq: 1, filename: KR6q0537_001.yaml, hash: 'sha256:aca7f96b93250b49a0c78e38eb22166cbe3e19348de831734ba2bd3b620c6227'}
+  - {seq: 2, filename: KR6q0537_002.yaml, hash: 'sha256:eb12d85b916560497d401327f845f32ee3f0eeb8ac6bd3dbd8b2cd3a861bf585'}
+  - {seq: 3, filename: KR6q0537_003.yaml, hash: 'sha256:d9449c3c192c1f780140c21633202b7034a4da3f8e4459c2acc14196f24bb706'}
+  - {seq: 4, filename: KR6q0537_004.yaml, hash: 'sha256:a52b3573a7451015fa7bdf2a00d3c6b8b9444c5f94c4b5ab174e535112490427'}
+  - {seq: 5, filename: KR6q0537_005.yaml, hash: 'sha256:ce5b4387395238e44b88db8efc822538e95b221ff6a83d48c105f667cb6edf8b'}
+  - {seq: 6, filename: KR6q0537_006.yaml, hash: 'sha256:de7be806b1a8b2261cc5dee1425d437b4d7a2ae70f539437278dac908dc069b9'}
+  - {seq: 7, filename: KR6q0537_007.yaml, hash: 'sha256:e1911e29ae887cf8e8c4162bd1d6781916ea328edacccac96f6e156dda0f38b2'}
+  - {seq: 8, filename: KR6q0537_008.yaml, hash: 'sha256:9625922f6eb14062afe7ed3ecfefe4906dec598ae72d84ed586083c122845d8a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0537_000.markers.yaml, hash: 'sha256:9b6eb08ab31f364b6f1f455dc7f6552fc1c250378137d56f4ddf822c4b193db6'}
+  - {seq: 1, role: markers, filename: assets/KR6q0537_001.markers.yaml, hash: 'sha256:c83ff49bff8686e9e4d4f5b3130a23963b929a6177008e2ec1fc68dea5c65a30'}
+  - {seq: 2, role: markers, filename: assets/KR6q0537_002.markers.yaml, hash: 'sha256:89338753413aedef8d0aa11d5cfa6eedd0135279b8eaf5806be81a386ea4f05d'}
+  - {seq: 3, role: markers, filename: assets/KR6q0537_003.markers.yaml, hash: 'sha256:d741cb654a57418509ab15ef15d44ee023dad8486ea23e187c79c9ba48c64583'}
+  - {seq: 4, role: markers, filename: assets/KR6q0537_004.markers.yaml, hash: 'sha256:aafa5559e31ac2777053692343b0eab66db5a3d1b6ac89dd94b544e3bf4562ba'}
+  - {seq: 5, role: markers, filename: assets/KR6q0537_005.markers.yaml, hash: 'sha256:4905f5759e339421b7cd25896d711490d37ecc653b397b7d8f33cb29f3ad0920'}
+  - {seq: 6, role: markers, filename: assets/KR6q0537_006.markers.yaml, hash: 'sha256:0ed262d91bb8d780a80bee8c950188caeca6073b67ba77261d916d17c1092966'}
+  - {seq: 7, role: markers, filename: assets/KR6q0537_007.markers.yaml, hash: 'sha256:15209a603c1f70101f6876b2bb20ba41b3413f32f67972202bb4b9b807c9cdfe'}
+  - {seq: 8, role: markers, filename: assets/KR6q0537_008.markers.yaml, hash: 'sha256:f2acc8a54bd9a92617e6c95d158203716928c67c252cc1b025fde300f1740e52'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0537_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0537_J_000-mulu-2
+    span:
+    - front
+    - 380
+    - 380
+  label: 杜臻序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0537_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 10502
+  label: 晦岳旭禪師語錄卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0537_J_001-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 住嘉興府金明禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0537_J_002-juan-start
+    span:
+    - body
+    - 0
+    - 10078
+  label: 晦岳旭禪師語錄卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0537_J_002-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 住三塔龍淵海會景德禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0537_J_003-juan-start
+    span:
+    - body
+    - 0
+    - 11223
+  label: 晦岳旭禪師語錄卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0537_J_003-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 住鎮江府北固山甘露寺海門禪院語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0537_J_004-juan-start
+    span:
+    - body
+    - 0
+    - 9280
+  label: 晦岳旭禪師語錄卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0537_J_004-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 住鎮江府甘露禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0537_J_005-juan-start
+    span:
+    - body
+    - 0
+    - 6105
+  label: 晦岳旭禪師語錄卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0537_J_005-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 住京口大覺禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0537_J_005-mulu-2
+    span:
+    - body
+    - 4520
+    - 4520
+  label: 住勝果禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0537_J_006-juan-start
+    span:
+    - body
+    - 0
+    - 8611
+  label: 晦岳旭禪師語錄卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0537_J_006-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 復住金明禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0537_J_007-juan-start
+    span:
+    - body
+    - 0
+    - 7167
+  label: 晦岳旭禪師語錄卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0537_J_007-mulu-1
+    span:
+    - body
+    - 6
+    - 6
+  label: 住嘉興府真如禪寺語錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0537_J_008-juan-start
+    span:
+    - body
+    - 0
+    - 6642
+  label: 晦岳旭禪師語錄卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0537_J_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 拈古
+  type: mulu
+  level: 1
+hash: sha256:0a39fbc60e462f115ebe95eef5183445ce330f08779a9762529329caecaa94a1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
