@@ -19,7 +19,7 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0537_000-J.yaml, hash: 'sha256:34ba3801cfc38ecaa8627970e63124965aa2fdd78cd4e93ad2ca3800c9014b0e'}
+  - {seq: 0, filename: KR6q0537_000-J.yaml, hash: 'sha256:0d775afa7313942b32b02ad6da062f33fea2a3a680f6ccd4dc4db6ad24228f91'}
   - {seq: 1, filename: KR6q0537_001-J.yaml, hash: 'sha256:212a21ab61b38c3cb953262f9ad0a9f3ee20abd90ee88b4f53530cc30fabec46'}
   - {seq: 2, filename: KR6q0537_002-J.yaml, hash: 'sha256:65bdb82599f1bbf74c2e74d4a56144b1242448fc4fdb268d96e9be9e304c099c'}
   - {seq: 3, filename: KR6q0537_003-J.yaml, hash: 'sha256:177643f90124a3b47dbd623cf7f8b51860c1e7151f84181ba8aeccad5cd71a26'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 7, filename: KR6q0537_007-J.yaml, hash: 'sha256:10f5e045e0684dcb0cd3fd47a398a54e116553270668e2287091c49f22ce69bf'}
   - {seq: 8, filename: KR6q0537_008-J.yaml, hash: 'sha256:1490a45a862d6efd1ed5ef8fab98cb0f59082085115217df57951074e8b5939e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0537_000-J.markers.yaml, hash: 'sha256:4b1f5eb5f8abbdacc7250a56529ad079e7507de7795c4798672cf1f2149423f2'}
+  - {seq: 0, role: markers, filename: assets/KR6q0537_000-J.markers.yaml, hash: 'sha256:5206fe457b63a18c701edeeaccdd01010e2b31b43b206f7fd212845dee525865'}
   - {seq: 1, role: markers, filename: assets/KR6q0537_001-J.markers.yaml, hash: 'sha256:a3c16e977c553751423ad114db3c83e772d15bacb602f2f5dd1633200bc96f98'}
   - {seq: 2, role: markers, filename: assets/KR6q0537_002-J.markers.yaml, hash: 'sha256:aea73234bce2c56d6726fbce3bf7daf243794ff526134a76260f2bb59b5f3da1'}
   - {seq: 3, role: markers, filename: assets/KR6q0537_003-J.markers.yaml, hash: 'sha256:c668e99d1b757a4c4cb99b4ab73e9d456962e9ec291552104c8adbdc03c36e2c'}
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0537_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0537_J_000-mulu-2
     span:
-    - front
+    - body
     - 380
     - 380
   label: 杜臻序
@@ -229,4 +229,4 @@ table_of_contents:
   label: 拈古
   type: mulu
   level: 1
-hash: sha256:811892a2d3fbc14589d0c590884b4c980830e583becc57c958f99adbe8a05834
+hash: sha256:cbfcbaf2c731aa35ac96aa0d4f7c2fb897266a8cac3590281b402058ff25f7ea

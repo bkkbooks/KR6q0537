@@ -21,7 +21,7 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0537_000.yaml, hash: 'sha256:b0739f902606a266001b6cd9491840a6f8f4ded94fa2ca4369ead627d13657d3'}
+  - {seq: 0, filename: KR6q0537_000.yaml, hash: 'sha256:3bca00f71324f0b8afc164039e401b093449fe8e2bc1fc8af0b03706a84d2ddb'}
   - {seq: 1, filename: KR6q0537_001.yaml, hash: 'sha256:cdca52e7cb8b5463ec19110ec3576a23c782a389c4d68cefe3a6a3e7010dd03a'}
   - {seq: 2, filename: KR6q0537_002.yaml, hash: 'sha256:abc764c2a860515cf8ec6ce230b4b10a21632217b749712f03af274a7fd3ae3c'}
   - {seq: 3, filename: KR6q0537_003.yaml, hash: 'sha256:c254da91cedef0ce06a5f014fcb3e5d90ad18f74af481bc146b9620acdc8fbaf'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 7, filename: KR6q0537_007.yaml, hash: 'sha256:9e9f0f6797e251a80a98fc2947006bb48a9e87c9b666bd180811ce288df63a27'}
   - {seq: 8, filename: KR6q0537_008.yaml, hash: 'sha256:cb3981fb1f42187770fe9d41dcdc6cdd9f9b56e127b78b92321fdd60db5f0978'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0537_000.markers.yaml, hash: 'sha256:2b73198a4a53a6a35b2d8b2c20c9cf06c4c3c5f9eb571c4bfa2c03e278e43d61'}
+  - {seq: 0, role: markers, filename: assets/KR6q0537_000.markers.yaml, hash: 'sha256:86f997b372d1327ca2ab91199ae24fb5ae593309697c3e1dbe347ac87ac46b68'}
   - {seq: 1, role: markers, filename: assets/KR6q0537_001.markers.yaml, hash: 'sha256:94f8210b5497e0099af4d36e94cb38b9da3ab78505025e2304dbcf269beb0e9b'}
   - {seq: 2, role: markers, filename: assets/KR6q0537_002.markers.yaml, hash: 'sha256:fa3a5919864e8da4095c5b0d052627870a313d0ac381714d17e8f436c8e44d33'}
   - {seq: 3, role: markers, filename: assets/KR6q0537_003.markers.yaml, hash: 'sha256:c857eba833c25a25e71558e98d8d19373959439c600fde3699cffd6169314a5c'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0537_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0537_J_000-mulu-2
     span:
-    - front
+    - body
     - 380
     - 380
   label: 杜臻序
@@ -231,7 +231,7 @@ table_of_contents:
   label: 拈古
   type: mulu
   level: 1
-hash: sha256:90f0178de6905fd6bc53f298da0c260ea13945f3812aa7674133878631db4eaf
+hash: sha256:56041081fe6ce4b7416bf865f550e8da49e8fb1601bf969895382248aaddbf65
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
